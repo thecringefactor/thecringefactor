@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thecringefactor
+- 👋 Hi, I’m @thealkalineknight
 - 👀 I’m interested in graphics [rogramming
 - 🌱 I’m currently learning cpp
 - 💞️ I’m looking to collaborate on nothing for now
